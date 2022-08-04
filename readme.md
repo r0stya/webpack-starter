@@ -33,3 +33,7 @@ The demo app is a very simple Joke generator. Replace with your own code and ins
 - index.js (main javascript)
 - template.html (template)
 - styles/main.scss (styles)
+
+## Sass Architecture Structure
+
+https://gist.github.com/r0stya/181f9ca67baf9901051683cb65526c9e
